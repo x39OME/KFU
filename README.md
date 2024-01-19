@@ -11,14 +11,20 @@
 - شرح تثبيت الpip
 - شرح تثبيت مكتبات تحليل البيانات في لغة بايثون
 
-### VSCODE
+### VSCode
 - ادخل على من هنا الرابط وحمل محرر الاكواد وثبته على جهازك [اضغط هنا](https://code.visualstudio.com/)
 
 <img src="vscode.PNG" alt="VSCODE" />
 
 ### Python
 - ادخل على الرابط وحمل لغة البايثون [اضغط هنا](https://www.python.org/)
-[](https://www.youtube.com/watch?v=02a5T6ktx8M&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=2&ab_channel=ElzeroWebSchool)
+- امور مهمة ويجب تثبيتها عند تثبيت البايثون لتجنب حدوث مشاكل عند تثبيت الحزم الصور بالأسفل
+<img src="1.PNG" alt="1" />
+<img src="2.PNG" alt="2" />
+<img src="3.PNG" alt="3" />
+
+#### في حال لم تفهم هنا فيديو باليوتيوب يشرح خطوات تثبيت البايثون
+[اضغط هنا](https://www.youtube.com/watch?v=02a5T6ktx8M&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=2&ab_channel=ElzeroWebSchool)
 
 
 ### Pip
