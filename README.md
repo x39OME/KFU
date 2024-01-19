@@ -14,8 +14,7 @@
 ### VSCODE
 - ادخل على الرابط بالأسفل وحمل محرر الاكواد وثبته على جهازك
 [Click Here](https://code.visualstudio.com/)
-<img src='vscode.png'>
-
+<img src="vscode.png" style="width:350px;" alt="Welcome Screen" />
 
 ### Python
 [](https://www.youtube.com/watch?v=02a5T6ktx8M&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=2&ab_channel=ElzeroWebSchool)
