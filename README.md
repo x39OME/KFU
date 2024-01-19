@@ -13,7 +13,7 @@
 
 ### VSCODE
 
-Click Here(https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjhidyPheqDAxVmU6QEHae_D4gQFnoECAYQAQ&url=https%3A%2F%2Fcode.visualstudio.com%2F&usg=AOvVaw15O90sm1ios8AUpw56hCml&opi=89978449)
+Click Here(https://code.visualstudio.com/)
 
 
 
