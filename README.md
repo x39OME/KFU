@@ -18,7 +18,7 @@
 
 
 ### Python
-
+[](https://www.youtube.com/watch?v=02a5T6ktx8M&list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs&index=2&ab_channel=ElzeroWebSchool)
 
 
 ### Pip
