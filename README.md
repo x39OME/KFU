@@ -51,6 +51,3 @@
 - pip install numpy
 <img src="6.PNG" alt="1" />
 
-
-### النهاية
-
