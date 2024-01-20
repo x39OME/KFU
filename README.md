@@ -33,11 +33,12 @@
 - شرح تثبيت البيب للغلة البايثون
 - حمل الملف التالي اضغط هنا [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
 - افتح موجه الأوامر Command Prompt عن طريق الضغط على زر علامة الويندوز مع حرف الR
+<img src="4.PNG" alt="1" />
+<img src="5.PNG" alt="1" />
 - انسخ الاوامر التالية واكتبها في موجه الاوامر مثل ماهو موضح بالصورة في الاسفل
 - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 - python get-pip.py
-<img src="4.PNG" alt="1" />
-<img src="5.PNG" alt="1" />
+
 <img src="6.PNG" alt="1" />
 
 
