@@ -37,8 +37,10 @@
 - اضغط انتر
 <img src="5.PNG" alt="1" />
 - انسخ الاوامر التالية واكتبها في موجه الاوامر مثل ماهو موضح بالصورة في الاسفل
-- curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-- python get-pip.py
+- `curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+- ثم Enter
+- `python get-pip.py`
+- ثم Enter
 
 <img src="6.PNG" alt="1" />
 
