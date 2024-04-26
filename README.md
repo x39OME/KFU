@@ -49,5 +49,6 @@
 - تثبيت مكتبة Numpy
 - بعد تثبيت مدير الحزم pip كرر الخطوة السابقة وافتح موجه الاوامر عن طريق الضغط على علامة الويندوز + R وانسخ الامر التالي واضغط Enter
 - pip install numpy
-<img src="6.PNG" alt="1" />
 - pip install pandas
+
+<img src="6.PNG" alt="1" />
